@@ -27,6 +27,6 @@ config.foo = 'bar'
 
 ## License
 
-MIT - [Typicode](https://github.com/georgzoeller)
+MIT
 
 _* jsop is short for jsonOpen, yamlop naturally follows the same rule_
