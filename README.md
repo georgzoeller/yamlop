@@ -1,4 +1,4 @@
-# yamlop [![](https://travis-ci.org/georgzoeller/yamlop.svg?branch=master)](https://travis-ci.org/georgzoeller/yamlop) [![](https://img.shields.io/npm/v/jsop.svg?style=flat)](https://www.npmjs.com/package/yamlop)   ![](http://img.shields.io/badge/node-0.11.13-ff69b4.svg?style=flat) ![](https://img.shields.io/badge/io.js-1.0.0-F5DA55.svg?style=flat)
+# yamlop [![](https://travis-ci.org/georgzoeller/yamlop.svg?branch=master)](https://travis-ci.org/georgzoeller/yamlop) [![](https://img.shields.io/npm/v/yamlop.svg?style=flat)](https://www.npmjs.com/package/yamlop)   ![](http://img.shields.io/badge/node-0.11.13-ff69b4.svg?style=flat) ![](https://img.shields.io/badge/io.js-1.0.0-F5DA55.svg?style=flat)
 
 > One-way data binding for YAML files
 
